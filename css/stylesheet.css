@@ -19,8 +19,14 @@
 }
 
 .borderpara {
+    font-family: 'Courier New', Courier, monospace;
     border-width: 10px;
     border-color: lightgreen;
     border-style: ridge;
     margin: 5px;
+}
+
+h1{
+    font-family: Roboto, sans-serif;
+    text-align: center;
 }
