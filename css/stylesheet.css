@@ -1,11 +1,12 @@
 .headings{
     color: red;
+    background-color: blue;
 }
 
 .paragraphparis{
     background-color: beige;
-}
+}  
 
-.headLon{
+#headLon{
     background-color: pink;
 }
